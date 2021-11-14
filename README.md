@@ -1,4 +1,4 @@
-# cryptoast_v3_snippet
+# English version - cryptoast_v3_snippet
 A simple exercise for cryptoast, I have to reproduce a figma design with HTML.
 
 # Personal choices for this exercise
@@ -11,9 +11,10 @@ Concerning the animation, I use only CSS, not JS, to avoid useless weight for th
 ## Author
 Paul Surrans - 4th year student at Epitech Paris
 
-------- French version below / Versionf française ci-dessous -------
+<br />
+<br />
 
-# cryptoast_v3_snippet
+# Version française - cryptoast_v3_snippet
 Un exercice simple pour cryptoast, je dois reproduire une maquette figma en HTML.
 
 # Choix personnels pour cet exercice
