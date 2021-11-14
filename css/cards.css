@@ -37,11 +37,17 @@
 }
 
 .cards-ctn > div {
+    transition: transform 0.3s ease;
     animation: fadein 1s forwards;
     -webkit-animation: fadein 1s forwards; /* Safari, Chrome and Opera > 12.1 */
     -moz-animation: fadein 1s forwards; /* Firefox < 16 */
     -ms-animation: fadein 1s forwards; /* Internet Explorer */
     -o-animation: fadein 1s forwards; /* Opera < 12.1 */
+}
+
+.cards-ctn > div:hover {
+    transform: scale(1.08);
+    cursor: pointer;
 }
 
 .cards-ctn > div:nth-child(2) {
