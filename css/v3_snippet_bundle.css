@@ -1,0 +1,21 @@
+@import 'colors.css';
+@import 'flex.css';
+@import 'fonts.css';
+@import 'height.css';
+@import 'width.css';
+@import 'reset.css';
+@import "margin.css";
+@import "cards.css";
+
+.main-ctn {
+    max-width: 1280px;
+    width: 100%;
+    margin: auto;
+    padding: 2rem;
+}
+
+@media (max-width: 1280px) {
+    .main-ctn {
+        padding: 1rem;
+    }
+}

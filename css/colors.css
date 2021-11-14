@@ -1,0 +1,28 @@
+:root {
+    --text-black: #111111;
+    --text-gray: #888888;
+    --bg-green-light: #55EFC4;
+    --bg-orange-gradient: linear-gradient(90deg, #FB7D5C 0%, #FF815E 100%);
+    --bg-gray-soft: #F1F1F6;
+    --color-white: #FFFFFF;
+}
+
+.color-black {
+    color: var(--text-black);
+}
+
+.color-gray {
+    color: var(--text-gray);
+}
+
+.bg-green-light {
+    background-color: var(--bg-green-light);
+}
+
+.bg-orange-gradient {
+    background: var(--bg-orange-gradient);
+}
+
+.bg-gray-soft {
+    background-color: var(--bg-gray-soft);
+}
