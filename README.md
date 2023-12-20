@@ -8,8 +8,7 @@ Moreover, I use rem instead of pixels (px) for accessibility. <br />
 Concerning the animation, I use only CSS, not JS, to avoid useless weight for the integration. <br />
 
 # How to open the result
-You can simply clone this repository, and right click on the HTML file. <br />
-Then, open it with a browser of your choice :)  (all of them are supported !) <br />
+I hosted the result with github pages on [this page](https://paulsrrs.github.io/cryptoast_v3_snippet/).
 
 ## Author
 Paul Surrans - 4th year student at Epitech Paris
@@ -27,8 +26,7 @@ De plus, j'utilise des rem au lieu des pixels (px) pour l'accessibilité. <br />
 Concernant l'animation, je n'utilise que du CSS, pas de JS, pour éviter un poids inutile pour l'intégration. <br />
 
 # Comment ouvrir le résultat
-Vous pouvez simplement cloner ce repository et ensuite, faire un click droit sur le fichier HTML. <br />
-Et puis, ouvrir le fichier avec le navigateur de votre choix :) (ils sont tous supportés !) <br />
+J'ai hébergé le résultat grâce aux pages github sur [cette page](https://paulsrrs.github.io/cryptoast_v3_snippet/).
 
 ## Auteur
 Paul Surrans - étudiant en 4ème année à Epitech Paris
